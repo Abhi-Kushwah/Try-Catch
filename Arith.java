@@ -11,9 +11,7 @@ class Arith{
   }
   System.out.println("good Job");
  }
-
   public static int divide(int x,int y){
-
    try{
        return x/y;
     }catch(ArithmeticException e){
